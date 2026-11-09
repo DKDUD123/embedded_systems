@@ -1,0 +1,20 @@
+# Python 가상환경
+.venv/
+venv/
+oled_env/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# SQLite 데이터베이스
+*.db
+
+# 환경변수 및 비밀번호
+.env
+
+# VS Code 설정
+.vscode/
+
+# 로그 파일
+*.log
